@@ -13,18 +13,18 @@ Estructura
 
 ## Modo de uso
     1. Clonar el repositorio: 
-    '''bash
+        '''bash
         git clone https://github.com/Abimael-Lib/Titanic-EDA.git
         cd Titanic-EDA
-    '''
+        '''
 
     2. Crear un entorno virtual y activarlo::
-    '''bash
-    python -m venv venv
-    source venv/bin/activate  # o `venv\Scripts\activate` 
-    '''
+        '''bash
+        python -m venv venv
+        source venv/bin/activate  # o `venv\Scripts\activate` 
+        '''
 
     3. Instalar las dependencias:
-    '''
-    pip install -r requirements.txt
-    '''
+        '''
+        pip install -r requirements.txt
+        '''
